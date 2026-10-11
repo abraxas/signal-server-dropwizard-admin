@@ -1,0 +1,15 @@
+/*
+ * Copyright (C) 2026 Abraxas Labs
+ * SPDX-License-Identifier: AGPL-3.0-only
+ *
+ * Same inheritance as WhisperServerConfiguration extends
+ * io.dropwizard.core.Configuration. Extra Signal YAML keys are omitted;
+ * this gadget only needs Dropwizard server/admin defaults.
+ */
+
+package lab.dropwizardadmin;
+
+import io.dropwizard.core.Configuration;
+
+public class LabConfiguration extends Configuration {
+}
