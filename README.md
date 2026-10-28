@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/signal-server-dropwizard-admin">signal-server-dropwizard-admin</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/signal-server-dropwizard-admin"><strong>https://abraxaslabs.tech/research/signal-server-dropwizard-admin</strong></a>
+</p>
+
 
 # signal-server-dropwizard-admin
 
